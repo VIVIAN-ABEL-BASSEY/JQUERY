@@ -1,0 +1,14 @@
+.big{
+    font-size: 15rem;
+    color: brown;
+    margin: 15px;
+    font-family:cursive;
+}
+.small{
+    font-size: 2rem;
+    color:red;
+}
+.a{
+    color: gray;
+    font-size:45px;
+}
